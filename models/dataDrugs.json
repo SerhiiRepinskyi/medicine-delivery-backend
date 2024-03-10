@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Paracetamol",
+    "price": 777,
+    "quantity": 25,
+    "favorite": false,
+    "foto": "",
+    "shop": "Drugs 24",
+    "createdAt": "2024-03-11T17:30:12.247+00:00"
+  },
+  {
+    "name": "Paracetamol",
+    "price": 888,
+    "quantity": 25,
+    "favorite": true,
+    "foto": "",
+    "shop": "Drugs 24",
+    "createdAt": "2024-03-10T17:30:12.247+00:00"
+  },
+  {
+    "name": "Paracetamol",
+    "price": 999,
+    "quantity": 25,
+    "favorite": false,
+    "foto": "",
+    "shop": "Pharmacy",
+    "createdAt": "2024-03-11T17:30:12.247+00:00"
+  },
+  {
+    "name": "Paracetamol",
+    "price": 1000,
+    "quantity": 25,
+    "favorite": true,
+    "foto": "",
+    "shop": "Pharmacy",
+    "createdAt": "2024-03-10T17:30:12.247+00:00"
+  }
+]
